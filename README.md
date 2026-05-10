@@ -34,6 +34,7 @@ I enjoy building bridges between **physical principles**, **engineering systems*
 
 - 🏅 **Finalist Award**, MCM/ICM 2026, Problem B.
 - 🎓 Recipient of the **Zhejiang Provincial Government Scholarship**.
+- 🔭 Presented at the **2025 Annual Meeting of the Zhejiang Astronomical Society**.
 - 🔬 Research and engineering practice in cold-atom experimental systems.
 - 📐 Experience in scientific writing, LaTeX typesetting, and technical presentation design.
 
@@ -60,7 +61,7 @@ I enjoy building bridges between **physical principles**, **engineering systems*
 
 # 📫 Contact
 
-- Mail: [Zhechen Shi](https://zhechenshi.physics@gmail.com)
+- Mail: [https://zhechenshi.physics@gmail.com](https://zhechenshi.physics@gmail.com)
 
 ---
 
