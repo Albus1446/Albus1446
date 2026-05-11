@@ -1,7 +1,7 @@
 # 📰 Latest Updates
 
 - 📅 **[Aug 2026]** Coming soon: **SDG & AI+ Academic Conferences 2026** at Clare Hall and Murray Edwards College, University of Cambridge.
-- 🏆 **[May 2026]** Awarded **Finalist** in **MCM/ICM 2026**.
+- 🏆 **[May 2026]** Awarded **Finalist** in **MCM/ICM 2026,Problem B**.
 - 🧊 **[May 2026]** Developing a compact **magneto-optical trap based quantum teaching platform**.
 - 🌌 **[Apr 2026]** Exploring **gravitational-wave detection**, **LISA/TianQin/Taiji**, and space-based interferometry.
 
@@ -23,8 +23,6 @@ I enjoy building bridges between **physical principles**, **engineering systems*
 # 🛠 Featured Projects & Contributions
 
 - 🧊 [coldatom-CCDimage-procession](https://github.com/Albus1446/coldatom-CCDimage-procession): CCD image processing and atom-number estimation for cold-atom experiments.
-
-- 🌐 [Albus1446.github.io](https://github.com/Albus1446/Albus1446.github.io): Personal academic homepage built with GitHub Pages.
 
 - 🔭 **Magneto-Optical Trap Teaching Platform**: A compact quantum teaching instrument designed for cold-atom visualization, optical alignment training, and quantum technology outreach.
 
