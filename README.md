@@ -1,68 +1,51 @@
-# 📰 Latest Updates
+# Zhechen Shi · Albus
 
-- 📅 **[Aug 2026]** Coming soon: **SDG & AI+ Academic Conferences 2026** at Clare Hall and Murray Edwards College, University of Cambridge.
-- 🏆 **[May 2026]** Awarded **Finalist** in **MCM/ICM 2026,Problem B**.
-- 🧊 **[May 2026]** Developing a compact **magneto-optical trap based quantum teaching platform**.
-- 🌌 **[Apr 2026]** Exploring **gravitational-wave detection**, **LISA/TianQin/Taiji**, and space-based interferometry.
+**Applied Physics undergraduate · Zhejiang University of Technology**  
+Gravitational-wave astrophysics · Exoplanet direct imaging · Space interferometry
 
-- 📄 **[May 2026]** I have uploaded the revised report on my recent work in **gravitational-wave data analysis and gravity-theory correction** to Google Drive.  
-  The report presents my current understanding, modeling process, and exploratory thoughts on the connection between gravitational-wave observations and possible corrections to gravitational theory.  
-  Comments, suggestions, and academic discussions are warmly welcome.  
-  👉 [Read the report here](https://drive.google.com/file/d/1pbB76D-bsD7IpXMR53czw3x6gxrOpwWN/view?usp=share_link)
----
+I am an undergraduate in Applied Physics at the School of Physics & Optical Engineering, Zhejiang University of Technology. My research interests center on gravitational-wave astrophysics and the direct imaging of exoplanets through space interferometry, alongside cold-atom physics and quantum precision measurement.
 
-# 👋 Hi, I'm Albus
+Through undergraduate research training, I am developing experience in scientific data analysis, numerical modeling, and experimental optics. I am interested in how precise instruments and computational methods can recover weak astrophysical signals and connect observations with physical models.
 
-I'm an undergraduate student majoring in **Applied Physics**, interested in **Astronomy**, ***cold atoms**, **quantum precision measurement**, **gravitational-wave detection**, and **their AI Application**.
+## Research interests
 
-I enjoy building bridges between **physical principles**, **engineering systems**, and **computational modeling**. My recent work focuses on **CCD-based atom-number estimation**, **optical systems**, and **statistical analysis for gravitational-wave data processing**, devoted to interdisciplinary research on their implications for corrections to gravitational theory.
+- **Gravitational-wave astrophysics:** data analysis and statistical methods for space-based observatories, including LISA, TianQin, and Taiji.
+- **Exoplanet direct imaging and interferometry:** high-contrast observations, space-based optical/infrared interferometry, and nulling techniques.
+- **Cold atoms and quantum precision measurement:** laser cooling and trapping, optical systems, and experimental image analysis.
 
+## Research experience
 
----
+- **Gravitational-wave data analysis** — Research training at Taiji Laboratory and participation in an undergraduate innovation training project in gravitational-wave astrophysics at the National Astronomical Observatories, Chinese Academy of Sciences (NAOC).
+- **Space interferometry and exoplanets** — Undergraduate project work in space interferometry and exoplanet observation, developing my understanding of the relationship between observational methods and scientific objectives.
+- **Cold-atom experimental systems** — Participation in the development of a compact magneto-optical trap (MOT) teaching platform at Zhejiang University of Technology. My work includes support for the probe and vacuum subsystems, cooling/pumping beam alignment, and CCD-based atom-number estimation.
 
-# 🛠 Featured Projects & Contributions
+## Selected projects and writing
 
-- 🧊 [coldatom-CCDimage-procession](https://github.com/Albus1446/coldatom-CCDimage-procession): CCD image processing and atom-number estimation for cold-atom experiments.
+- **[Cold-atom CCD image analysis](https://github.com/Albus1446/coldatom-CCDimage-procession)** — Absorption-image processing, optical-depth calculation, atom-number estimation, and two-dimensional Gaussian fitting. Adapted from the `TakatoPhy/coldatom-imaging` project, with an experimental-data notebook and example visualizations.
+- **[Exploratory gravitational-wave research report](https://drive.google.com/file/d/1pbB76D-bsD7IpXMR53czw3x6gxrOpwWN/view?usp=share_link)** — Preliminary modeling and research notes on gravitational-wave data analysis and possible gravity-theory corrections (May 2026).
 
-- 🔭 **Magneto-Optical Trap Teaching Platform**: A compact quantum teaching instrument designed for cold-atom visualization, optical alignment training, and quantum technology outreach.
+## Selected honors and academic exchange
 
----
+- **Best Poster Award**, [AI+ Academic Conference 2026](https://www.clarehall.cam.ac.uk/events/sdg-ai-academic-conferences-2026/) — administered by UniHive and held at Clare Hall and Murray Edwards College, University of Cambridge.
+- **Best Poster**, Undergraduate Astronomy Forum, Westlake University.
+- **Finalist**, MCM/ICM 2026, Problem B.
+- **Zhejiang Provincial Government Scholarship**.
+- **Speaker**, 2025 Annual Meeting of the Zhejiang Astronomical Society — a talk on AI development platforms for astronomy association projects.
 
-# 🏆 Awards & Experiences
+Additional academic exchange includes summer study in Cambridge and a particle physics summer school at Fudan University.
 
-- 🏅 **Finalist Award**, MCM/ICM 2026, Problem B.
-- 🎓 Recipient of the **Zhejiang Provincial Government Scholarship**.
-- 🔭 Presented at the **2025 Annual Meeting of the Zhejiang Astronomical Society**.
-- 🔬 Research and engineering practice in cold-atom experimental systems.
-- 📐 Experience in scientific writing, LaTeX typesetting, and technical presentation design.
+## Tools
 
----
+- **Scientific computing and analysis:** Python, MATLAB, Linux.
+- **Scientific writing and diagrams:** LaTeX, Visio.
+- **Optical and engineering design:** Ansys Zemax OpticStudio, AutoCAD.
 
-# 🔬 Research Interests
+## Contact
 
-- **Quantum Precision Measurement**
-- **Gravitational-Wave Detection**
+I welcome discussions about gravitational-wave data analysis, exoplanet observations, and scientific computing.
 
----
-
-# 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-Scientific%20Computing-blue?logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-Data%20Analysis-orange)
-![LaTeX](https://img.shields.io/badge/LaTeX-Academic%20Writing-green?logo=latex)
-![Linux](https://img.shields.io/badge/Linux-Development%20Environment-black?logo=linux)
-![Visio](https://img.shields.io/badge/Visio-Diagram%20Design-blue)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Engineering%20Drawing-red)
-![Ansys Zemax OpticStudio](https://img.shields.io/badge/Ansys%20Zemax%20OpticStudio-Optical%20Design-purple)
+**Email:** [zhechenshi.physics@gmail.com](mailto:zhechenshi.physics@gmail.com)
 
 ---
 
-# 📫 Contact
-
-- Mail: [https://zhechenshi.physics@gmail.com](https://zhechenshi.physics@gmail.com)
-
----
-
-# 🌱 Motto
-
-> per aspera ad astra.
+*Per aspera ad astra.*
